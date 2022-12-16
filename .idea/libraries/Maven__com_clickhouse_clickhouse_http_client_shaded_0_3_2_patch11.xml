@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.clickhouse:clickhouse-http-client:shaded:0.3.2-patch11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/clickhouse/clickhouse-http-client/0.3.2-patch11/clickhouse-http-client-0.3.2-patch11-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/clickhouse/clickhouse-http-client/0.3.2-patch11/clickhouse-http-client-0.3.2-patch11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/clickhouse/clickhouse-http-client/0.3.2-patch11/clickhouse-http-client-0.3.2-patch11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
